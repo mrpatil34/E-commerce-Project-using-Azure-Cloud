@@ -20,5 +20,5 @@ This dataset aims to serve as a benchmark for an e-commerce fashion store. Using
 Here is the link to the dataset : https://data.world/jfreex/e-commerce-users-of-a-french-c2c-fashion-store
 
 ## Pyspark Scripts for Medallion Architecture
-https://github.com/Rajeshwar1399/E-commerce-Project-using-Azure-Cloud/tree/main/Databricks%20Notebooks
+https://github.com/mrpatil34/E-commerce-Project-using-Azure-Cloud/tree/main/Databricks%20Notebooks
 
